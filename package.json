@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Koenkk/zigbee2mqtt.git"
+    "url": "git+https://github.com/ronicayu/zigbee2mqtt.git"
   },
   "engines": {
     "node": "^18 || ^20 || ^21"
@@ -59,7 +59,7 @@
     "winston-syslog": "^2.7.0",
     "winston-transport": "^4.7.0",
     "ws": "^8.16.0",
-    "zigbee-herdsman": "0.40.3",
+    "zigbee-herdsman": "github:ronicayu/zigbee-herdsman#dev_board",
     "zigbee-herdsman-converters": "19.11.2",
     "zigbee2mqtt-frontend": "0.6.161"
   },
